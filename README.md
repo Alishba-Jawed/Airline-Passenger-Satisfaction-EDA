@@ -55,10 +55,7 @@ This project focuses on cleaning and analyzing the Airline Passenger Satisfactio
 |------|-------------|
 | Airline_Passenger_Satisfaction_Data_Cleaning_&_EDA.ipynb | Complete data cleaning and EDA notebook |
 | README.md | Project documentation |
-| requirements.txt | pandas
-numpy
-matplotlib
-seaborn |
+| requirements.txt | pandas, numpy, matplotlib, seaborn |
 
 ---
 
