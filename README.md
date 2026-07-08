@@ -57,25 +57,7 @@ This project focuses on cleaning and analyzing the Airline Passenger Satisfactio
 | README.md | Project documentation |
 | requirements.txt | pandas, numpy, matplotlib, seaborn |
 
----
 
-## 🚀 How to Run
-
-1. Clone the repository.
-
-```
-git clone https://github.com/your-username/airline-passenger-satisfaction-eda.git
-```
-
-2. Install dependencies.
-
-```
-pip install -r requirements.txt
-```
-
-3. Open the notebook in Jupyter Notebook or VS Code.
-
----
 
 ## 📚 Dataset
 
